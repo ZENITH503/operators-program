@@ -1,0 +1,6 @@
+a = input("enter a number : ")
+b = input("enter second number : ")
+a= int(a)
+b= int(b)
+print("1st greatr " , a>b)
+print("2nd grtr " , a<b )
